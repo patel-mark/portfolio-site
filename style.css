@@ -383,6 +383,11 @@ article .icon {
   color: black;
 }
 
+.project-desc{
+  padding: 10px;
+  text-align: center;
+}
+
 .project-btn {
   color: black;
   border-color: rgb(163, 163, 163);
